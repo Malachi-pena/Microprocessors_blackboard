@@ -1,8 +1,7 @@
 // Malachi Pena
 // GPIO.c
-// Worked with Kaleb Smith
-// used  refence RealDigital
-// a little C primer.pdf, and Geeksforgeeks
+// used refence RealDigital,Dr.Mark Welker, and
+// a little C primer.pdf.
 
 #include <stdint.h>
 #include <sleep.h>
@@ -209,3 +208,4 @@ int main(void) {
     }
     return 1;
 }
+
