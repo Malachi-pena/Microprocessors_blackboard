@@ -2,6 +2,8 @@
 // GPIO.c
 // used refence RealDigital,Dr.Mark Welker, and
 // a little C primer.pdf.
+// The following code simulates a Traffic light using the General-Purpose Input-Output pins
+// on the blackboard development board.
 
 #include <stdint.h>
 #include <sleep.h>
