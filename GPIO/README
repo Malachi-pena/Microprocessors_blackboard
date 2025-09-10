@@ -1,0 +1,22 @@
+The following code demostrates interfacing with hardware peripherals through memory-mapped registers via a system built on FPGA.
+the code corresponds to several LED indicators, switches,and PMOD ports
+
+## Features 
+- Reads input from physical switches and buttons. 
+- Displays switch states on hardware peripherals on board.
+- Shows how to send signals through PMOD connectors. 
+- Includes timing control using delays i.e "sleep" function. 
+
+---
+
+## Repository Structure
+- ** GPIO.c** main program source code.
+- Defines memory- mapped register addresses
+- Implements GPIO input reading and output control
+
+--
+
+## Requirements 
+- C compiler ( e.g., Gcc or Xilinx SDK tools, depending on individual)
+- Target hardware that supports the given memory- mapped register addresses 
+- register addresses could be found on the blackboard real digital reference manual under GPIO's
