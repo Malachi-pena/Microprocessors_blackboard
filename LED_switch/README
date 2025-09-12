@@ -1,0 +1,14 @@
+##Project Overview##
+
+  This project contains C source code developed for use with the Blackboard Development Kit. 
+The program demonstrates fundamental embedded systems programming concepts, including GPIO 
+control, peripheral communication, and hardware interaction. It is designed as a learning 
+resource to explore how C code interfaces with the Blackboard’s hardware features.
+
+##The code can be used to:##
+
+- Initialize and configure hardware peripherals.
+
+- Control input/output pins and external components.
+
+- Serve as a template for experimenting with embedded applications.
